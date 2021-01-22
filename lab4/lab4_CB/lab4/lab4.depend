@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587163705 source:c:\users\san_t\onedrive\desktop\algorithim\lab4\lab4_cb\lab4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
